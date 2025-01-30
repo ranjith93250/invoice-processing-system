@@ -24,7 +24,7 @@
 	<style>
 		@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 		body, h1, h2, h3, h4, h5, h6{
-			font-family: 'Open Sans', sans-serif;
+			font-family:'Open Sans', sans-serif;
 		}
 	</style>
 
