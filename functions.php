@@ -4,7 +4,8 @@
 include_once("includes/config.php");
 
 // get invoice list
-function getInvoices() {
+function getInvoices() 
+{ 
 
 	// Connect to the database
 	$mysqli = new mysqli(DATABASE_HOST, DATABASE_USER, DATABASE_PASS, DATABASE_NAME);
